@@ -1,0 +1,5 @@
+0.65s    7902 https://golang.org
+0.73s    4154 http://gopl.io
+0.74s   19136 http://www.yahoo.co.jp
+Get https://godoc.org: net/http: TLS handshake timeout
+10.14s elapsed
